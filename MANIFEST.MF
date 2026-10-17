@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: U YILDIZ Build
+Main-Class: com.uyildiz.burploaderkeygen.KeygenForm
+Premain-Class: com.uyildiz.burploaderkeygen.Loader
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Boot-Class-Path: uyildiz-burploader.jar
+

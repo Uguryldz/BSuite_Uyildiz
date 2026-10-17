@@ -1,0 +1,29 @@
+# Build çıktıları
+build/
+out/
+target/
+*.class
+
+# JAR dosyaları — libs/ hariç (ASM gerekli)
+*.jar
+!libs/*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+*.swp
+
+# Config / log
+.config.ini
+*.log
+burp-log.txt
+burp-launcher.log
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
